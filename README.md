@@ -14,82 +14,31 @@
 
 ### 🔙 Backend
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/openjdk" width="40"/><br/>
-        <sub>Java</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/go" width="40"/><br/>
-        <sub>Go</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/spring" width="40"/><br/>
-        <sub>Spring Boot</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://cdn.simpleicons.org/openjdk" width="40"/><br/>Java &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go" width="40"/><br/>Go &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spring" width="40"/><br/>Spring Boot
 </p>
 
 ---
 
 ### 🗄️ Base de Datos
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/postgresql" width="40"/><br/>
-        <sub>PostgreSQL</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/mysql" width="40"/><br/>
-        <sub>MySQL</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/oracle" width="40"/><br/>
-        <sub>Oracle</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="40"/><br/>
-        <sub>SQL Server</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/sap" width="40"/><br/>
-        <sub>Sybase</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://cdn.simpleicons.org/postgresql" width="40"/><br/>PostgreSQL &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" width="40"/><br/>MySQL &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/oracle" width="40"/><br/>Oracle &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="40"/><br/>SQL Server &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sap" width="40"/><br/>Sybase
 </p>
 
 ---
 
 ### 🖥️ Servidores y Sistemas
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/oracle" width="40"/><br/>
-        <sub>WebLogic</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/ibm" width="40"/><br/>
-        <sub>WebSphere</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/redhat" width="40"/><br/>
-        <sub>JBoss</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/linux" width="40"/><br/>
-        <sub>Linux</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/windows" width="40"/><br/>
-        <sub>Windows Server</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://cdn.simpleicons.org/oracle" width="40"/><br/>WebLogic &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ibm" width="40"/><br/>WebSphere &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redhat" width="40"/><br/>JBoss &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" width="40"/><br/>Linux &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/windows" width="40"/><br/>Windows Server
 </p>
 
 ---
