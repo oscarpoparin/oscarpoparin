@@ -10,57 +10,86 @@
 
 ---
 
----
-
 ## 🧠 Tecnologías
 
 ### 🔙 Backend
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openjdk" width="50"/>
-  <img src="https://cdn.simpleicons.org/go" width="50"/>
-  <img src="https://cdn.simpleicons.org/spring" width="50"/>
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://cdn.simpleicons.org/react" width="50"/>
-  <img src="https://cdn.simpleicons.org/angular" width="50"/>
-  <img src="https://cdn.simpleicons.org/html5" width="50"/>
-  <img src="https://cdn.simpleicons.org/css3" width="50"/>
-  <img src="https://cdn.simpleicons.org/javascript" width="50"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="50"/>
-</p>
-
-### 📱 Mobile
-<p align="center">
-  <img src="https://cdn.simpleicons.org/flutter" width="50"/>
-  <img src="https://cdn.simpleicons.org/react" width="50"/>
-  <img src="https://cdn.simpleicons.org/android" width="50"/>
-</p>
-
-### 🗄️ Base de Datos
-<p align="center">
-  <img src="https://cdn.simpleicons.org/postgresql" width="50"/>
-  <img src="https://cdn.simpleicons.org/mysql" width="50"/>
-  <img src="https://cdn.simpleicons.org/oracle" width="50"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="50"/>
-  <img src="https://cdn.simpleicons.org/sap" width="50"/> <!-- Sybase pertenece a SAP -->
-</p>
-
-### 🖥️ Servidores y Sistemas
-<p align="center">
-  <img src="https://cdn.simpleicons.org/oracle" width="50"/> <!-- WebLogic -->
-  <img src="https://cdn.simpleicons.org/ibm" width="50"/>     <!-- WebSphere -->
-  <img src="https://cdn.simpleicons.org/redhat" width="50"/>  <!-- JBoss -->
-  <img src="https://cdn.simpleicons.org/linux" width="50"/>
-  <img src="https://cdn.simpleicons.org/windows" width="50"/>
-</p>
-
-### 🔗 Integración
-<p align="center">
-  <img src="https://cdn.simpleicons.org/postman" width="50"/>
-  <img src="https://cdn.simpleicons.org/swagger" width="50"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/openjdk" width="40"/><br/>
+        <sub>Java</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/go" width="40"/><br/>
+        <sub>Go</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/spring" width="40"/><br/>
+        <sub>Spring Boot</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
+
+### 🗄️ Base de Datos
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/postgresql" width="40"/><br/>
+        <sub>PostgreSQL</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/mysql" width="40"/><br/>
+        <sub>MySQL</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/oracle" width="40"/><br/>
+        <sub>Oracle</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="40"/><br/>
+        <sub>SQL Server</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/sap" width="40"/><br/>
+        <sub>Sybase</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+### 🖥️ Servidores y Sistemas
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/oracle" width="40"/><br/>
+        <sub>WebLogic</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/ibm" width="40"/><br/>
+        <sub>WebSphere</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/redhat" width="40"/><br/>
+        <sub>JBoss</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/linux" width="40"/><br/>
+        <sub>Linux</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/windows" width="40"/><br/>
+        <sub>Windows Server</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
 ---
