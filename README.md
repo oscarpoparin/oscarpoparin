@@ -8,17 +8,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Go+%7C+Spring+Boot;React+%7C+Angular+%7C+Tailwind;Mobile+Developer+Flutter+%7C+React+Native" />
 </p>
 
-<!--
-**oscarpoparin/oscarpoparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔙 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,spring" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,tailwind" />
+</p>
+
+### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,android" />
+</p>
+
+### 🗄️ Base de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🔗 Integración
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Services-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+</p>
+
+---
