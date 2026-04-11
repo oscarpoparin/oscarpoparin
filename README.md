@@ -22,6 +22,16 @@ Interesado en **microservicios y arquitectura distribuida**.
 
 ---
 
+## 📌 Repositorios Destacados
+
+<p align="center">
+  <a href="https://github.com/oscarpoparin/APLICACION-BANCARIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oscarpoparin&repo=APLICACION-BANCARIA&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Tecnologías Principales
 
 ### 🎨 Frontend
