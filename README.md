@@ -26,7 +26,7 @@ Interesado en **microservicios y arquitectura distribuida**.
 
 <p align="center">
   <a href="https://github.com/oscarpoparin/APLICACION-BANCARIA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oscarpoparin&repo=APLICACION-BANCARIA&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Proyecto-APLICACION--BANCARIA-blue?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
