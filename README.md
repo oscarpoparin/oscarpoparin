@@ -46,8 +46,11 @@
     <img src="https://cdn.simpleicons.org/redhat" width="40"/>
     <div>JBoss</div>
   </span>-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-  <div>WebLogic</div>
+  
+  <div>
+    WebLogic
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+  </div>
   <img src="https://cdn.simpleicons.org/redhat" width="40"/>
   <div>JBoss</div>
 </div>
