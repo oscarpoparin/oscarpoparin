@@ -3,14 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
---
+---
 
 <!-- TEXTO ESCRIBIÉNDOSE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Go+%7C+Spring+Boot;React+%7C+Angular+%7C+Tailwind;Mobile+Developer+Flutter+%7C+React+Native" />
 </p>
 
---
+---
 
 ## 👋 Intro
 
