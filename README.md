@@ -33,36 +33,32 @@ Desarrollador de software con experiencia en el sector financiero, actualmente d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
 
 ### ⚙️ Backend
-### 🗄️ Base de Datos
-### 🌐 Servidores de Aplicaciones
-### 💻 Sistemas Operativos
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  
-  
-  
-  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### 🗄️ Base de Datos
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>
-  
 </p>
 
----
+### 🌐 Servidores de Aplicaciones
 
-### 🖥️ Servidores de Aplicaciones
-
-  <p align="center" style="display:inline-block; text-align:center; margin: 0 40px;">
+<p align="center" style="display:inline-block; text-align:center; margin: 0 40px;">
     WebLogic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
     &nbsp;&nbsp;&nbsp;
@@ -71,6 +67,13 @@ Desarrollador de software con experiencia en el sector financiero, actualmente d
     &nbsp;&nbsp;&nbsp;
     WebSphere
     <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+
+### 💻 Sistemas Operativos
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
