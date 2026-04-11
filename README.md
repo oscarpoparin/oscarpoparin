@@ -40,9 +40,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/><br/>
   </span>
 
-  <span style="display:inline-block; text-align:center; margin: 0 15px;">
-    <img src="https://cdn.simpleicons.org/ibm" width="35"/><br/>
+  <span style="display:inline-block; text-align:center; margin: 0 20px;">
     WebSphere
+    <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/><br/>
   </span>
 
   <span style="display:inline-block; text-align:center; margin: 0 15px;">
