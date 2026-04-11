@@ -51,8 +51,10 @@
     WebLogic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
   </div>
-  <img src="https://cdn.simpleicons.org/redhat" width="40"/>
-  <div>JBoss</div>
+  <div>
+    JBoss
+    <img src="https://cdn.simpleicons.org/redhat" width="40"/>
+  </div>
 </div>
 
 
