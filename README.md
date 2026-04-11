@@ -14,28 +14,33 @@
 
 ### 💻 Stack Principal
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openjdk" width="35"/>
-  <img src="https://cdn.simpleicons.org/go" width="35"/>
-  <img src="https://cdn.simpleicons.org/spring" width="35"/>
-  <img src="https://cdn.simpleicons.org/react" width="35"/>
-  <img src="https://cdn.simpleicons.org/angular" width="35"/>
-  <img src="https://cdn.simpleicons.org/html5" width="35"/>
-  <img src="https://cdn.simpleicons.org/css3" width="35"/>
-  <img src="https://cdn.simpleicons.org/javascript" width="35"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="35"/>
-  <img src="https://cdn.simpleicons.org/postgresql" width="35"/>
-  <img src="https://cdn.simpleicons.org/mysql" width="35"/>
-  <img src="https://cdn.simpleicons.org/oracle" width="35"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="35"/>
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35"/>
+
+  <!-- DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/>
 </p>
 
 ---
 
 ### 🖥️ Servidores de Aplicaciones
 <p align="center">
-  <img src="https://cdn.simpleicons.org/oracle" width="35"/><br/>WebLogic &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ibm" width="35"/><br/>WebSphere &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redhat" width="35"/><br/>JBoss
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/><br/>WebLogic &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="35"/><br/>WebSphere &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="35"/><br/>JBoss
 </p>
 
 ---
