@@ -98,6 +98,11 @@ Interesado en **microservicios y arquitectura distribuida**.
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 </p>
 
 ---
