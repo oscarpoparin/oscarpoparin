@@ -33,28 +33,16 @@
 ---
 
 ### 🖥️ Servidores de Aplicaciones
-<div>
-  <!--<span style="display:inline-block; text-align:center; margin: 0 25px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-    <div>WebLogic</div>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 25px;">
-    <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-    <div>WebSphere</div>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 25px;">
-    <img src="https://cdn.simpleicons.org/redhat" width="40"/>
-    <div>JBoss</div>
-  </span>-->
-  
+
   <p align="center" style="display:inline-block; text-align:center; margin: 0 40px;">
     WebLogic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+    &nbsp;&nbsp;&nbsp;
     JBoss
     <img src="https://cdn.simpleicons.org/redhat" width="40"/>
+    &nbsp;&nbsp;&nbsp;
     WebSphere
     <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
-
 
 ---
