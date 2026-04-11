@@ -27,14 +27,16 @@ Interesado en **microservicios y arquitectura distribuida**.
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -42,11 +44,13 @@ Interesado en **microservicios y arquitectura distribuida**.
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -54,20 +58,25 @@ Interesado en **microservicios y arquitectura distribuida**.
 ### 🗄️ Base de Datos
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
 
 ### 🌐 Servidores de Aplicaciones
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="WebLogic"/>
-  <img src="https://cdn.simpleicons.org/redhat" width="40" title="JBoss"/>
-  <img src="https://img.shields.io/badge/WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<p align="center" style="display:inline-block; text-align:center; margin: 0 40px;">
+    WebLogic
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+    &nbsp;&nbsp;&nbsp;
+    JBoss
+    <img src="https://cdn.simpleicons.org/redhat" width="40"/>
+    &nbsp;&nbsp;&nbsp;
+    WebSphere
+    <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
 ---
@@ -75,8 +84,8 @@ Interesado en **microservicios y arquitectura distribuida**.
 ### 💻 Sistemas Operativos
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -84,11 +93,11 @@ Interesado en **microservicios y arquitectura distribuida**.
 ## 🧰 Herramientas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/git" width="40"/>
-  <img src="https://cdn.simpleicons.org/github" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
