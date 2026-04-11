@@ -16,44 +16,90 @@
 
 Desarrollador de software con experiencia en el sector financiero, actualmente desempeñándome como consultor SPEI.
 
-Me especializo en el desarrollo de **sistemas backend, APIs e integraciones bancarias**, enfocados en **alto rendimiento, seguridad y escalabilidad**.
+Especializado en el desarrollo de **backend, APIs e integraciones bancarias**, con enfoque en sistemas **seguros, escalables y de alto rendimiento**.
 
-Tengo interés en arquitecturas modernas como **microservicios y sistemas distribuidos**.
+Interesado en **microservicios y arquitectura distribuida**.
 
 ---
 
 ## 🧠 Tecnologías Principales
 
 ### 🎨 Frontend
-HTML · CSS · JavaScript · TypeScript · React · Angular · Vue · Tailwind · Bootstrap · Sass
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+---
 
 ### ⚙️ Backend
-Java · Go · Spring Boot · Kotlin · Android · Dart · Flutter
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+</p>
+
+---
 
 ### 🗄️ Base de Datos
-PostgreSQL · MySQL · Oracle · SQL Server
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
+
+---
 
 ### 🌐 Servidores de Aplicaciones
-WebLogic · JBoss · WebSphere
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="WebLogic"/>
+  <img src="https://cdn.simpleicons.org/redhat" width="40" title="JBoss"/>
+  <img src="https://img.shields.io/badge/WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+
+---
 
 ### 💻 Sistemas Operativos
-Linux · Windows
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40"/>
+</p>
 
 ---
 
 ## 🧰 Herramientas
 
-:contentReference[oaicite:0]{index=0} · :contentReference[oaicite:1]{index=1} · :contentReference[oaicite:2]{index=2} · SOAP UI · Git · GitHub
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/git" width="40"/>
+  <img src="https://cdn.simpleicons.org/github" width="40"/>
+</p>
 
 ---
 
 ## 📌 Experiencia
 
-✔ 3 años en el sector financiero  
+✔ 3 años en sector financiero  
 ✔ Desarrollo de sistemas de transferencias electrónicas (SPEI)  
 ✔ Integración de APIs bancarias  
-✔ Optimización de procesos transaccionales críticos  
-✔ Enfoque en sistemas seguros y escalables  
+✔ Arquitecturas transaccionales críticas  
+✔ Enfoque en rendimiento, seguridad y escalabilidad  
 
 ---
 
@@ -65,7 +111,6 @@ Linux · Windows
 
 ---
 
-<!-- FOOTER ANIMADO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
