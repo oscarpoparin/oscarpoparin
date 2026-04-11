@@ -14,28 +14,28 @@
 
 ### 💻 Stack Principal
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openjdk" width="30"/> Java &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/go" width="30"/> Go &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spring" width="30"/> Spring Boot &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react" width="30"/> React &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/angular" width="30"/> Angular &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5" width="30"/> HTML5 &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3" width="30"/> CSS3 &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript" width="30"/> JavaScript &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="30"/> Tailwind &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql" width="30"/> PostgreSQL &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql" width="30"/> MySQL &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/oracle" width="30"/> Oracle &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="30"/> SQL Server
+  <img src="https://cdn.simpleicons.org/openjdk" width="35"/>
+  <img src="https://cdn.simpleicons.org/go" width="35"/>
+  <img src="https://cdn.simpleicons.org/spring" width="35"/>
+  <img src="https://cdn.simpleicons.org/react" width="35"/>
+  <img src="https://cdn.simpleicons.org/angular" width="35"/>
+  <img src="https://cdn.simpleicons.org/html5" width="35"/>
+  <img src="https://cdn.simpleicons.org/css3" width="35"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="35"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="35"/>
+  <img src="https://cdn.simpleicons.org/postgresql" width="35"/>
+  <img src="https://cdn.simpleicons.org/mysql" width="35"/>
+  <img src="https://cdn.simpleicons.org/oracle" width="35"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="35"/>
 </p>
 
 ---
 
 ### 🖥️ Servidores de Aplicaciones
 <p align="center">
-  <img src="https://cdn.simpleicons.org/oracle" width="30"/> WebLogic &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ibm" width="30"/> WebSphere &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redhat" width="30"/> JBoss
+  <img src="https://cdn.simpleicons.org/oracle" width="35"/><br/>WebLogic &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ibm" width="35"/><br/>WebSphere &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redhat" width="35"/><br/>JBoss
 </p>
 
 ---
