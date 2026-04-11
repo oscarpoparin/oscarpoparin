@@ -35,9 +35,20 @@
 
 ### 🖥️ Servidores de Aplicaciones
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/><br/>WebLogic &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="35"/><br/>WebSphere &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redhat" width="35"/><br/>JBoss
+  <span style="display:inline-block; text-align:center; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/><br/>
+    WebLogic
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="35"/><br/>
+    WebSphere
+  </span>
+
+  <span style="display:inline-block; text-align:center; margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/redhat" width="35"/><br/>
+    JBoss
+  </span>
 </p>
 
 ---
