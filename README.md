@@ -47,7 +47,7 @@
     <div>JBoss</div>
   </span>-->
   
-  <div>
+  <p align="center">
     WebLogic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
   </div>
@@ -55,7 +55,11 @@
     JBoss
     <img src="https://cdn.simpleicons.org/redhat" width="40"/>
   </div>
-</div>
+  <div>
+    WebSphere
+    <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </div>
+</p>
 
 
 ---
