@@ -50,8 +50,10 @@
   <p align="center">
     WebLogic
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+    
     JBoss
     <img src="https://cdn.simpleicons.org/redhat" width="40"/>
+    
     WebSphere
     <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
