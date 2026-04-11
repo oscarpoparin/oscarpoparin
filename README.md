@@ -41,8 +41,8 @@
   </span>
 
   <span style="display:inline-block; text-align:center; margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/ibm" width="35"/><br/>
     WebSphere
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="35"/><br/>
   </span>
 
   <span style="display:inline-block; text-align:center; margin: 0 15px;">
